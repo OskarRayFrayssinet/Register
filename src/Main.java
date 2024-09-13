@@ -10,8 +10,8 @@ public class Main {
         allPersons.add(new Person("Oskar"));
         allPersons.add(new Person("Ulf"));
         allPersons.add(new Person("Jennie"));
+        allPersons.add(new Person("Erika"));
 
-        // skriva ut alla personer
         for(Person p : allPersons) {
             System.out.println(p);
         }
